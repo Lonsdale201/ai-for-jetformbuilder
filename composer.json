@@ -1,0 +1,12 @@
+{
+    "name": "custom/ai-for-jetformbuilder",
+    "description": "AI helpers for JetFormBuilder.",
+    "type": "wordpress-plugin",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "AI\\JetFormBuilder\\": "includes/"
+        }
+    },
+    "require": {}
+}
